@@ -1,6 +1,6 @@
 # HarmonyOS-Repository
 
-## why
+## why need HarmonyOS
 
 As we all know, iOS and Android are already very advanced. So why should we still learn HarmonyOS?
 
@@ -9,8 +9,6 @@ Because the era is called the Internet of Everything.We need to survive.
 Consider the current situation: for the same application across different devices like Android, iOS, and PC, we need to develop different versions. This leads to repetitive development and the need to maintain multiple versions. The interaction methods between devices vary, requiring developers to handle their own adaptations. Multi-device collaboration results in low development efficiency, and troubleshooting development issues becomes challenging.
 
 Why can't there be such an operating system? With just one codebase, we could implement the same business logic, reuse it across different platforms, We only need to adapt different UIs. and it could even help us by leaving the interaction methods between devices to the underlying system.
-
-It’s here! It has really arrived! It is HarmonyOS!
 
 ## what is HarmonyOS
 

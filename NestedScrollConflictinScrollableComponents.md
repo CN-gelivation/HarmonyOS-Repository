@@ -57,9 +57,11 @@ struct Index {
 ```
 
 **Component Tree**
+
 ![Component Tree](https://i-blog.csdnimg.cn/direct/5b878fd52a10475789ff517ac11baa40.png)
 
 **Effect:**
+
 ![Effect](https://i-blog.csdnimg.cn/direct/7fd3ab5f672949f49f5e138356290693.gif)
 
 #### Solution:
@@ -138,4 +140,6 @@ struct Index {
 ```
 
 **Effect After Fix:**
+
+
 ![Effect After Fix](https://i-blog.csdnimg.cn/direct/12276bd0d184463497623b5f1e5949d9.gif)

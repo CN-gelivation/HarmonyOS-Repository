@@ -162,7 +162,9 @@ If not API15, the browser will open, showing the web content, and the user may b
 
 ##### Creating an App Link
 
-![Image](https://i-blog.csdnimg.cn/direct/c595ac4e2a994b56ab97122191121897.png)
+![image](https://github.com/user-attachments/assets/e812acf6-158c-41d4-bb63-51e5c251933f)
+
+
 ![Image](https://i-blog.csdnimg.cn/direct/4ba1e185f1be4da7a4296df28757dfc6.png)
 This completes the cloud setup.
 
@@ -312,7 +314,9 @@ struct Detail {
 #### Configuring Direct App Market Redirection
 
 For API15 and above, the **Direct to App Market** feature can be configured.
-![Image](https://i-blog.csdnimg.cn/direct/ef7f823bfe15436a933d5e9f60cf8b68.png)
+
+![image](https://github.com/user-attachments/assets/199ae480-d19f-4b63-8a9b-aa70e2d33cfd)
+
 
 #### Using Deferred Links
 
